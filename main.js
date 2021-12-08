@@ -20,9 +20,12 @@ function secti(a, b) {
  */
 function upozorni() {
   document.querySelector("#vysledek").innerHTML = secti(4, 5);
-  alert("Gratulace, právě jsi spustila tuto funkci!");
+  alert("Gratulaceeeeeee, právě jsi spustila tuto funkci!");
   console.log("Gratulace, právě jsi spustila tuto funkci!");
   ctverec.innerHTML = "Gratulace, právě jsi spustila tuto funkci!";
   ctverec.style.fontSize = "8px";
   
 }
+
+
+
